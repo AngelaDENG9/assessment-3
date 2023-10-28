@@ -1,6 +1,6 @@
 # assessment-3
 
-## notes
+## Reflection
 Creating a One Page website about the "Impact of Bushfire" was a worthwhile project, especially considering that areas such as Australia are often affected by severe forest fires. For this project I chose to use HTML, CSS and JavaScript, as well as the Bootstrap framework, to create an attractive image rotation effect for the site. Here are some of my thoughts and reflections on this project:
 
 Using the Bootstrap framework throughout the project provided a ready-made structure and style for the website, which allowed me to focus on the design of the content and the user experience.Bootstrap's grid system allowed the website to display well on a variety of devices and made it easy to create a responsive design.
