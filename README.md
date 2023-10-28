@@ -17,6 +17,8 @@ Overall, this project not only allowed me to improve my proficiency in HTML, CSS
 Using the Bootstrap framework as the design framework for the rotator chart serves several important purposes: first, it ensures that the rotator chart displays well on the website and on different kinds of devices. Its responsive design ensures that the rotator charts maintain a consistent appearance and functionality across various screen sizes and devices, providing a better experience.
 
 Secondly, the code inside the Bootstrap framework helps to minimize errors and problems. It ensures that the rotational charts in the website are not interrupted by code errors, thus ensuring smooth functioning of the website.
-<a href="https://getbootstrap.com/docs/5.3/components/carousel/#css"></a>
-## anything else
+
+Hyper Link:
+https://getbootstrap.com/docs/5.3/components/carousel/#css
+
  
